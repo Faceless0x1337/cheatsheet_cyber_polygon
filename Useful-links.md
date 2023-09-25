@@ -14,7 +14,7 @@
 	Usage: curl https://poc-in-github.motikan2010.net/api/v1/?cve_id=YOUR_CVE_ID | jq 
 
 ## Decode | Encode
-• https://gchq.github.io/CyberChef/
+• https://gchq.github.io/CyberChef/ \
 • https://dencode.com/
 
 ## Payloads
