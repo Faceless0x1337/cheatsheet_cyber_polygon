@@ -8,7 +8,7 @@
 • modbus: https://book.hacktricks.xyz/network-services-pentesting/pentesting-modbus \
 • Def-creds: http://scadasecuritybootcamp.com/SCADA-Default-Password-List.php \
 • Def-creds: https://hackmd.io/@tuBp9oxkSra7nw4TNItvUg/BkVIccr-j \
-• Audit SCADA/ICS Systems: https://github.com/ITI/ICS-Security-Tools•  \
+• Audit SCADA/ICS Systems: https://github.com/ITI/ICS-Security-Tools  \
 
 
 # Tools
