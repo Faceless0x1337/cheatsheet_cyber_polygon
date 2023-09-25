@@ -3,7 +3,7 @@
 • Walkthrough: https://yelbridges.co.ke/attacking-ics-plant-walkthrough/ \
 
 
-#cheatsheet
+# Cheatsheet
 • SCADA/ICS: https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/SCADA.md \
 • modbus: https://book.hacktricks.xyz/network-services-pentesting/pentesting-modbus \
 • Def-creds: http://scadasecuritybootcamp.com/SCADA-Default-Password-List.php \
@@ -11,7 +11,7 @@
 • Audit SCADA/ICS Systems: https://github.com/ITI/ICS-Security-Tools•  \
 
 
-#tools
+# Tools
 • https://github.com/kh4sh3i/ICS-Pentesting-Tools \
 • https://codeby.net/threads/kratkoe-vvedenie-v-skaner-ujazvimostej-nessus.72005/ \
 • https://github.com/FOGSEC/isf \
@@ -19,6 +19,6 @@
 • https://github.com/hslatman/awesome-industrial-control-system-security \
 
 
-Practise:
+# Practise:
 • https://tryhackme.com/room/attackingics1 \
 • https://tryhackme.com/room/attackingics2 \
