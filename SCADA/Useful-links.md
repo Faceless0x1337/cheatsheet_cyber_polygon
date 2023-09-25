@@ -1,4 +1,4 @@
-#Tutorial \
+# Tutorial \
 • SCADA Hacking: https://www.hackers-arise.com/scada-hacking \
 • Walkthrough: https://yelbridges.co.ke/attacking-ics-plant-walkthrough/ \
 
