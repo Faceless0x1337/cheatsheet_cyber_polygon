@@ -18,7 +18,7 @@
 • https://dencode.com/
 
 ## Payloads
-• PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings
+• PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings \
 • Seclists: https://github.com/danielmiessler/SecLists
 
 ## Shells
