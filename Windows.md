@@ -79,7 +79,6 @@ findstr — команда для поиска строк в файлах
 
 # Рекомендуемые ресурсы
 • Hacktrics: https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation
-• Стандарт по тестированию на проникновение PTES
 
 # Active Directory:
 • Чеклист по тестированию защищенности Active Directory: 
