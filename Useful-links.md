@@ -27,10 +27,16 @@
 • Spawn TTY - https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/#method-2-using-socat  \
 • Spawn TTY - https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/full-ttys \
 
+
+## Password attacks
+• https://md5.in/ \
+• https://www.onlinehashcrack.com/e1jqytzc3v \
+• https://crackstation.net/ \ 
+• https://hashcat.net/wiki/doku.php?id=example_hashes - Hashcat support hashes \ 
+
 ## Wordlists
 • https://wordlists.assetnote.io/ \
 • https://github.com/praetorian-inc/Hob0Rules/blob/master/wordlists/rockyou.txt.gz \
-• https://md5.in/ - crack hash \
 
 ## Services
 • https://requestBin.com - Request inspect \
