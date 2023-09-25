@@ -1,6 +1,6 @@
 # Cheatsheets:
-• Cyber-Bookmarks: https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
-• Default-Creds: https://github.com/ihebski/DefaultCreds-cheat-sheet
+• Cyber-Bookmarks: https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html \
+• Default-Creds: https://github.com/ihebski/DefaultCreds-cheat-sheet \
 
 ## Exploits-Databases:
 • Exploit-db: https://www.exploit-db.com/
