@@ -42,7 +42,7 @@ findstr — команда для поиска строк в файлах
 
 # Mimikatz — инструмент, реализующий функционал Windows Credentials Editor и позволяющий извлекать учетные данные пользователей Windows.
 Дополнительную информацию по данному инструменту можно получить по следующим ссылкам:
-• Что такое Mimikatz: руководство для начинающих — https://habr.com/ru/company/varonis/blog/539340/
+• Что такое Mimikatz: руководство для начинающих — https://habr.com/ru/company/varonis/blog/539340/ \
 •  Справка по mimikatz — https://kali.tools/?p=5342
 
 # Применение Mimikatz
