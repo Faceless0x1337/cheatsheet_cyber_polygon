@@ -11,14 +11,14 @@
 • Vuldb: https://vuldb.com/ \
 • Vulnerability-lab: https://www.vulnerability-lab.com/ \
 • PoC: https://poc-in-github.motikan2010.net/ \
-	Usage: curl https://poc-in-github.motikan2010.net/api/v1/?cve_id=YOUR_CVE_ID | jq \
+	Usage: curl https://poc-in-github.motikan2010.net/api/v1/?cve_id=YOUR_CVE_ID | jq 
 
 ## Decode | Encode
 • https://gchq.github.io/CyberChef/
 • https://dencode.com/
 
 ## Payloads
-• PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings
+• PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings \
 • Seclists: https://github.com/danielmiessler/SecLists
 
 ## Shells
