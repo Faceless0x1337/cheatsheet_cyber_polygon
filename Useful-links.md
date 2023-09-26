@@ -1,6 +1,7 @@
 # Cheatsheets:
 • Cyber-Bookmarks: https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html \
-• Default-Creds: https://github.com/ihebski/DefaultCreds-cheat-sheet 
+• Default-Creds: https://github.com/ihebski/DefaultCreds-cheat-sheet \
+• Pentest-book: https://github.com/six2dez/pentest-book/tree/master
 
 ## Exploits-Databases:
 • Exploit-db: https://www.exploit-db.com/ \
