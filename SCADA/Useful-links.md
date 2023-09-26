@@ -9,7 +9,8 @@
 • Def-creds: http://scadasecuritybootcamp.com/SCADA-Default-Password-List.php \
 • Def-creds: https://hackmd.io/@tuBp9oxkSra7nw4TNItvUg/BkVIccr-j \
 • Audit SCADA/ICS Systems: https://github.com/ITI/ICS-Security-Tools  \
-• Scadahacker: https://scadahacker.com/library/index.html
+• Scadahacker: https://scadahacker.com/library/index.html \
+• Researchgate: https://www.researchgate.net/publication/334425003_SCADA_Testbed_for_Vulnerability_Assessments_Penetration_Testing_and_Incident_Forensics
 
 
 # Tools
