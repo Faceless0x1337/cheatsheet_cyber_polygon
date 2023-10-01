@@ -32,7 +32,7 @@
 ## Password attacks
 • https://md5.in/ \
 • https://www.onlinehashcrack.com/e1jqytzc3v \
-• https://crackstation.net/ \ 
+• https://crackstation.net/ \
 • https://hashcat.net/wiki/doku.php?id=example_hashes - Hashcat supported hashes \ 
 
 ## Wordlists
