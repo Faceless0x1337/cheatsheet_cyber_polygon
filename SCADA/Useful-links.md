@@ -20,6 +20,7 @@
 • https://github.com/d0ubl3g/Industrial-Security-Auditing-Framework \
 • https://github.com/hslatman/awesome-industrial-control-system-security \
 • https://github.com/Joshua1909/smod
+• https://github.com/jpalanco/nmap-scada
 
 
 # Practise:
