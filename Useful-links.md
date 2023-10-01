@@ -51,6 +51,6 @@
 ## Tuneling:
 • https://book.hacktricks.xyz/generic-methodologies-and-resources/tunneling-and-port-forwarding \
 • https://github.com/securesocketfunneling/ssf \
-• https://github.com/sensepost/reGeorg \ 
+• https://github.com/sensepost/reGeorg \
 • https://github.com/ginuerzh/gost/
 
