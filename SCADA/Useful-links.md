@@ -23,6 +23,6 @@
 • https://github.com/jpalanco/nmap-scada
 
 
-# Practise:
+# Practiсe:
 • https://tryhackme.com/room/attackingics1 \
 • https://tryhackme.com/room/attackingics2 \
